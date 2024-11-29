@@ -4,7 +4,7 @@ def sol() -> None:
     text = "Hello"
     is_logged_in = True
 
-    print(type(x), type(y), type(text), type(is_logged_in))
+    print(type(x), type(y), type(text), type(is_logged_in), sep="\n")
 
 
 if __name__ == '__main__':
